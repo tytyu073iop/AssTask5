@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Biryuk_2.cpp">
+    <ClCompile Include="11_Biryuk.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
